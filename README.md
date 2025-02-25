@@ -71,10 +71,3 @@ El contrato implementa varias medidas de seguridad:
 - Verificaciones de balances para prevenir ataques
 - Control de asignación de recompensas
 
-## Licencia
-
-Este proyecto está licenciado bajo MIT - ver el archivo LICENSE para más detalles.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o una pull request para sugerir cambios o mejoras.
